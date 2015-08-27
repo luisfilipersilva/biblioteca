@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter
+END
+PregReplace.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/PregReplace.php
+END
+Int.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/Int.php
+END
+Compress.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/Compress.php
+END
+Callback.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/Callback.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/Exception.php
+END
+LocalizedToNormalized.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/LocalizedToNormalized.php
+END
+NormalizedToLocalized.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/NormalizedToLocalized.php
+END
+Input.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/Input.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/Interface.php
+END
+RealPath.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/RealPath.php
+END
+StringTrim.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/StringTrim.php
+END
+Decompress.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/Decompress.php
+END
+StripNewlines.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/StripNewlines.php
+END
+HtmlEntities.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/HtmlEntities.php
+END
+Null.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/Null.php
+END
+Decrypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/Decrypt.php
+END
+BaseName.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/BaseName.php
+END
+Alnum.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/Alnum.php
+END
+Dir.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/Dir.php
+END
+Boolean.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/Boolean.php
+END
+StripTags.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/StripTags.php
+END
+StringToLower.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/StringToLower.php
+END
+Digits.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/Digits.php
+END
+Encrypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/Encrypt.php
+END
+Alpha.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/Alpha.php
+END
+Inflector.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/Inflector.php
+END
+StringToUpper.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Filter/StringToUpper.php
+END

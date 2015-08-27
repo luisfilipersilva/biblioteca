@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Tool/Project/Context/System
+END
+ProjectProvidersDirectory.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Tool/Project/Context/System/ProjectProvidersDirectory.php
+END
+ProjectDirectory.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Tool/Project/Context/System/ProjectDirectory.php
+END
+TopLevelRestrictable.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Tool/Project/Context/System/TopLevelRestrictable.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Tool/Project/Context/System/Interface.php
+END
+NotOverwritable.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Tool/Project/Context/System/NotOverwritable.php
+END
+ProjectProfileFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Tool/Project/Context/System/ProjectProfileFile.php
+END

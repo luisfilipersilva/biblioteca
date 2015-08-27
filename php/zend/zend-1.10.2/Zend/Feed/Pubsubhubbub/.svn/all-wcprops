@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Feed/Pubsubhubbub
+END
+CallbackInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Feed/Pubsubhubbub/CallbackInterface.php
+END
+Publisher.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Feed/Pubsubhubbub/Publisher.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Feed/Pubsubhubbub/Exception.php
+END
+HttpResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Feed/Pubsubhubbub/HttpResponse.php
+END
+CallbackAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Feed/Pubsubhubbub/CallbackAbstract.php
+END
+Subscriber.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Feed/Pubsubhubbub/Subscriber.php
+END

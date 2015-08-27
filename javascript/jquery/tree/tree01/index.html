@@ -1,0 +1,156 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+	<title>jQuery live-tree</title>
+	<link rel="stylesheet" href="css/screen.css">
+	<link rel="stylesheet" href="css/jquery.live.tree.css">
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/jquery.live.tree.js"></script>
+  <script>
+  function custome_close(){
+    alert('info:'+this.node.children('span').text());
+  };
+  function ganti(){
+    $.liveTree.click['w1:hit:close'] = custome_close;
+  }
+  $(function(){
+    $.liveTree.click['w1:grp:local'] = custome_close;
+    $.liveTree.click['w1:hit:empty'] = function(){
+      return this.getTree('subtree.txt');
+/*    var xx = this.node.children('ul:eq(0)');
+      $.get('lionly',function(data){
+        xx.html(data);
+        xx.liveTree();
+      });
+      return true;*/
+    };
+    $.liveTree.click['w1:hit:close'] = function(){
+    //  alert('closing!');               
+    return true;
+    };/*
+    $.liveTree.click.tree = function(){
+      alert('tree:'+this.tree.children('span').text());
+    };
+    $.liveTree.click.file = function(){
+      alert('file:'+this.tree.children('span').text());
+    };*/
+  });
+  </script>
+</head>
+<body>
+
+	<ul live="w1" class="livetree filetree">
+		<li><span>Htdocs</span>
+			<ul>
+				<li><span>aplicacao</span>
+					<ul>
+						<li><span>sci</span>
+							<ul>
+								<li><span>acl</span>
+									<ul>
+										<li><span>plugins</span>
+											<ul></ul>
+										</li>
+									</ul>
+								</li>
+								<li><span>application</span>
+									<ul>
+										<li><span>controllers</span>
+											<ul></ul>
+										</li>
+										<li><span>models</span>
+											<ul></ul>
+										
+										</li>
+										<li><span>views</span>
+											<ul>
+												<li><span>filters</span>
+													<ul></ul>
+												</li>
+												<li><span>helpers</span>
+													<ul></ul>
+												</li>
+												<li><span>scripts</span>
+													<ul></ul>
+												</li>
+											</ul>
+										</li>
+										<li><span>config.ini</span></li>
+									</ul>
+								</li>
+								<li><span>public</span>
+									<ul>
+										<li><span>images</span>
+											<ul></ul>
+										</li>
+										<li><span>scripts</span>
+											<ul></ul>
+										</li>
+									    <li><span>styles</span>
+											<ul></ul>
+										</li>
+									</ul>
+								</li>
+								<li><span>index.php</span></li>
+							</ul>
+							
+						</li>
+					</ul>
+				</li>
+			<li><span>biblioteca</span>
+				<ul>
+					<li><span>componente</span>
+						<ul></ul>
+					</li>
+					<li><span>portal</span>
+						<ul></ul>
+					</li>
+					<li><span>zend</span>
+						<ul>
+							<li><span>zend-1.8.0</span>
+								<ul>
+									<li><span>Zend</span>
+										<ul></ul>
+									</li>
+									<li><span>ZendX</span>
+										<ul></ul>
+									</li>
+								</ul>
+							</li>
+							<li><span>zend-1.8.1</span>
+								<ul>
+									<li><span>Zend</span>
+										<ul></ul>
+									</li>
+									<li><span>ZendX</span>
+										<ul></ul>
+									</li>
+								</ul>
+							</li>
+							<li><span>zend-1.9.3</span>
+								<ul>
+									<li><span>Zend</span>
+										<ul></ul>
+									</li>
+									<li><span>ZendX</span>
+										<ul></ul>
+									</li>	
+								</ul>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</li>	
+			
+			<li><span>portal</span>
+				<ul></ul>
+			</li>
+			</ul>
+			
+			
+			
+		</li>
+		
+		
+	</ul>
+  
+</body></html>

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Controller/Response
+END
+HttpTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Controller/Response/HttpTestCase.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Controller/Response/Exception.php
+END
+Http.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Controller/Response/Http.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Controller/Response/Abstract.php
+END
+Cli.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Controller/Response/Cli.php
+END

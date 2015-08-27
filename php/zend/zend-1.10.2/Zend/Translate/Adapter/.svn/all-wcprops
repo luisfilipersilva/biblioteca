@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Translate/Adapter
+END
+Csv.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Translate/Adapter/Csv.php
+END
+Tbx.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Translate/Adapter/Tbx.php
+END
+Array.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Translate/Adapter/Array.php
+END
+Ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Translate/Adapter/Ini.php
+END
+XmlTm.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Translate/Adapter/XmlTm.php
+END
+Gettext.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Translate/Adapter/Gettext.php
+END
+Qt.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Translate/Adapter/Qt.php
+END
+Tmx.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Translate/Adapter/Tmx.php
+END
+Xliff.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Translate/Adapter/Xliff.php
+END

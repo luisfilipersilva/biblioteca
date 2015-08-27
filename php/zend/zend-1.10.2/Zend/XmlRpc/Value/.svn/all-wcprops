@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/XmlRpc/Value
+END
+Double.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/XmlRpc/Value/Double.php
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/XmlRpc/Value/Collection.php
+END
+DateTime.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/XmlRpc/Value/DateTime.php
+END
+Integer.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/XmlRpc/Value/Integer.php
+END
+Array.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/XmlRpc/Value/Array.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/XmlRpc/Value/Exception.php
+END
+BigInteger.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/XmlRpc/Value/BigInteger.php
+END
+Boolean.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/XmlRpc/Value/Boolean.php
+END
+Nil.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/XmlRpc/Value/Nil.php
+END
+Base64.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/XmlRpc/Value/Base64.php
+END
+Struct.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/XmlRpc/Value/Struct.php
+END
+Scalar.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/XmlRpc/Value/Scalar.php
+END
+String.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/XmlRpc/Value/String.php
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Service/DeveloperGarden
+END
+BaseUserService.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Service/DeveloperGarden/BaseUserService.php
+END
+Credential.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Service/DeveloperGarden/Credential.php
+END
+SendSms.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Service/DeveloperGarden/SendSms.php
+END
+SmsValidation.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Service/DeveloperGarden/SmsValidation.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Service/DeveloperGarden/Exception.php
+END
+SecurityTokenServer.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Service/DeveloperGarden/SecurityTokenServer.php
+END
+LocalSearch.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Service/DeveloperGarden/LocalSearch.php
+END
+VoiceCall.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Service/DeveloperGarden/VoiceCall.php
+END
+IpLocation.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Service/DeveloperGarden/IpLocation.php
+END
+ConferenceCall.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Service/DeveloperGarden/ConferenceCall.php
+END

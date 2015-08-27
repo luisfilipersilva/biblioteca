@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Search/Lucene/Search/Weight
+END
+Empty.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Search/Lucene/Search/Weight/Empty.php
+END
+Boolean.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Search/Lucene/Search/Weight/Boolean.php
+END
+MultiTerm.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Search/Lucene/Search/Weight/MultiTerm.php
+END
+Phrase.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Search/Lucene/Search/Weight/Phrase.php
+END
+Term.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Search/Lucene/Search/Weight/Term.php
+END

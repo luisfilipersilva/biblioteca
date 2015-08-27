@@ -1,0 +1,70 @@
+.mlddm
+{	visibility: hidden;
+	margin: 0;
+	padding: 0;
+	height: 24px;
+	background-color: #ABC9DE}
+
+	.mlddm li
+	{	display: inline;
+		float: left;
+		list-style: none;
+		margin: 0;
+		padding: 0}
+	
+	.mlddm li a, .mlddm li a#buttonnohover
+	{	display: block;
+		margin: 0 2px 0 0;
+		padding: 4px;
+		width: 80px;
+		font: bold 11px arial;
+		text-align: center;
+		text-decoration: none;
+		text-transform: uppercase;
+		white-space: nowrap;
+		color: #FFF;
+		background-color: #5970B2;
+		border: 1px solid #5970B2}
+
+	.mlddm li a:hover, .mlddm li a#buttonhover
+	{	background-color: #ABC9DE}
+
+		.mlddm ul
+		{	z-index: 100;
+			position: absolute;
+			visibility: hidden;
+			margin: 2px 0 0 0;
+			padding: 0;
+			background-color: #D3ECF2;
+			border: 1px solid #5970B2}
+
+			.mlddm ul li
+			{	float: none}
+
+			.mlddm ul li a
+			{	display: block;
+				width: auto;
+				margin: 0px;
+				padding: 5px 17px 5px 13px;
+				font-weight: normal;
+				text-align: left;
+				text-transform: none;
+				color: #2875DE;
+				background-color: #ECEFE4;
+				border-width: 0}
+
+.mlddm .hsub
+{	background: #5970B2 no-repeat right url(../img/arrow.gif)}
+
+	.mlddm ul li .hsub
+	{	background: #ECEFE4 no-repeat right url(../img/arrow.gif)}
+
+.mlddm .hsub:hover
+{	background: #ABC9DE no-repeat right url(../img/arrow.gif)}
+
+	.mlddm ul li .hsub:hover
+	{	background: #ABC9DE no-repeat right url(../img/arrow.gif)}
+
+
+
+

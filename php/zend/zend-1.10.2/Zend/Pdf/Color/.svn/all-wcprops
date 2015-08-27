@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Pdf/Color
+END
+GrayScale.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Pdf/Color/GrayScale.php
+END
+Rgb.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Pdf/Color/Rgb.php
+END
+Cmyk.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Pdf/Color/Cmyk.php
+END
+Html.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Pdf/Color/Html.php
+END

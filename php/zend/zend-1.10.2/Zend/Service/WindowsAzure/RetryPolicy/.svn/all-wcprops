@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Service/WindowsAzure/RetryPolicy
+END
+RetryPolicyAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Service/WindowsAzure/RetryPolicy/RetryPolicyAbstract.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Service/WindowsAzure/RetryPolicy/Exception.php
+END
+NoRetry.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Service/WindowsAzure/RetryPolicy/NoRetry.php
+END
+RetryN.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Service/WindowsAzure/RetryPolicy/RetryN.php
+END

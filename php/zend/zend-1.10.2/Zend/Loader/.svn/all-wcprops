@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Loader
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Loader/Exception.php
+END
+Autoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Loader/Autoloader.php
+END
+PluginLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Loader/PluginLoader.php
+END

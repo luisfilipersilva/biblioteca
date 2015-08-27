@@ -1,0 +1,56 @@
+10
+
+dir
+0
+http://10.121.240.97/svn/biblioteca/trunk/javascript/jquery/validate-1.9.0
+http://10.121.240.97/svn/biblioteca
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5a1895d3-7f1b-412e-afb6-040cbed671bd
+
+jquery.validate.js
+file
+
+
+
+add
+
+additional-methods.js
+file
+
+
+
+add
+
+jquery.validate.min.js
+file
+
+
+
+add
+
+additional-methods.min.js
+file
+
+
+
+add
+

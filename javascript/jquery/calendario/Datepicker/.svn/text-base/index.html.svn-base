@@ -1,0 +1,82 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+     "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<title>jQuery Datepicker</title>
+<style type="text/css"> 
+@import "css/jquery.tabs.css";
+@import "css/jquery.bookmark.css";
+@import "css/demo.css";
+</style>
+<link rel="stylesheet" type="text/css" href="css/jquery.datepick.css" id="theme">
+<script type="text/javascript" src="js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="js/jquery-ui-effects-1.6rc5.js"></script>
+<script type="text/javascript" src="js/jquery.debug.js"></script>
+<script type="text/javascript" src="js/jquery.tabs.js"></script>
+<script type="text/javascript" src="js/jquery.localisation.js"></script>
+<script type="text/javascript" src="js/jquery.bookmark.js"></script>
+<script type="text/javascript" src="js/jquery.metadata.js"></script>
+<script type="text/javascript" src="js/jquery.validate.js"></script>
+<script type="text/javascript" src="js/jquery.datepick.js"></script>
+<script type="text/javascript" src="js/jquery.datepick-validation.js"></script>
+<script type="text/javascript" src="js/jquery.datepick-pt-BR.js"></script>
+
+<script type="text/javascript"> 
+$.datepick.setDefaults($.datepick.regional['pt']);
+</script>
+
+<script type="text/javascript" src="js/jquery.chili-2.0.js"></script>
+<script type="text/javascript" src="js/demo.js"></script>
+<script type="text/javascript"> 
+$(function() {
+	$('#download').click(function() {
+		pageTracker._trackPageview('/downloads/datepick-3.7.1');
+		window.location = 'zip/jquery.datepick.package-3.7.1.zip';
+	});
+	if (!$.browser.msie) {
+		$('a[href=#daymods],a[href=#events]').parent().addClass('tabSplit');
+	}
+	$('#selectDay,#selectMonth,#selectYear').change(checkLinkedDays);
+	if ($.browser.msie) { // IE can't handle changing UI themes
+		$('#styleSelect option[value^=ui-]').remove();
+	}
+	else {
+		$('#ieTheme').hide();
+	}
+});
+ 
+// Prevent selection of invalid dates through the select controls 
+function checkLinkedDays() { 
+    var daysInMonth = 32 - new Date($('#selectYear').val(), 
+        $('#selectMonth').val() - 1, 32).getDate(); 
+    $('#selectDay option:gt(27)').attr('disabled', ''); 
+    $('#selectDay option:gt(' + (daysInMonth - 1) +')').attr('disabled', 'disabled'); 
+    if ($('#selectDay').val() > daysInMonth) { 
+        $('#selectDay').val(daysInMonth); 
+    } 
+}
+</script>
+</head>
+
+<body>
+<div id="range" class="feature">
+		<h2>Preencha com as datas início e fim</h2>
+
+		<p><span class="demoLabel">Data início:</span>
+			<input type="text" size="10" id="startDatepicker">
+			<span class="demoLabel">Data Fim:</span>
+			<input type="text" size="10" id="endDatepicker"></p>
+		<pre><code class="jsdemo">$('#startDatepicker,#endDatepicker').datepick({beforeShow: customRange,
+	showOn: 'both', buttonImageOnly: true, buttonImage: 'img/calendar.gif'});
+	
+function customRange(input) { 
+    return {minDate: (input.id == 'endDatepicker' ?
+		$('#startDatepicker').datepick('getDate') : null), 
+        maxDate: (input.id == 'startDatepicker' ?
+		$('#endDatepicker').datepick('getDate') : null)}; 
+}</code></pre>
+	</div>
+
+</body>
+</html>

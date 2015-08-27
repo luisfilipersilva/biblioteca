@@ -1,0 +1,25 @@
+<chart yAxisMinValue='0' yAxisMaxValue='6000000' PYAxisName="Capex Recuperado (R$)" SYAxisName="E1's Liberados Rede Fixa" palette="2" caption="Relatorio Sinalização" subCaption="capex(R$)" shownames="1" showvalues="0" decimals="2" numberPrefix="R$ " formatNumberScale='0'>
+ <categories>
+  <category label="Janeiro"/>
+  <category label="Fevereiro"/> 
+  <category label="Março"/> 
+  <category label="Abril"/> 
+  <category label="Maio"/>
+  <category label="Junho"/>
+  <category label="Julho"/>
+  <category label="Agosto"/>
+  <category label="Setembro"/>
+  <category label="Outubro"/>
+  <category label="Novembro"/>
+  <category label="Dezembro"/> 
+  </categories>
+
+ <dataset seriesName="capex(R$)" color="#006400" showValues="0">
+  <set value="475000" /> 
+  <set value="622500" /> 
+  <set value="810500" /> 
+  <set value="612500" /> 
+  <set value="412500" />
+  <set value="25000" /> 
+  </dataset>
+  </chart>

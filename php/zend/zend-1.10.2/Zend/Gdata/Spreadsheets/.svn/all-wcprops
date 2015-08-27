@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Gdata/Spreadsheets
+END
+SpreadsheetEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Gdata/Spreadsheets/SpreadsheetEntry.php
+END
+SpreadsheetFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Gdata/Spreadsheets/SpreadsheetFeed.php
+END
+ListEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Gdata/Spreadsheets/ListEntry.php
+END
+WorksheetEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Gdata/Spreadsheets/WorksheetEntry.php
+END
+ListFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Gdata/Spreadsheets/ListFeed.php
+END
+WorksheetFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Gdata/Spreadsheets/WorksheetFeed.php
+END
+CellEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Gdata/Spreadsheets/CellEntry.php
+END
+ListQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Gdata/Spreadsheets/ListQuery.php
+END
+CellFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Gdata/Spreadsheets/CellFeed.php
+END
+DocumentQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Gdata/Spreadsheets/DocumentQuery.php
+END
+CellQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/biblioteca/!svn/ver/4/branches/inicio/php/zend/zend-1.10.2/Zend/Gdata/Spreadsheets/CellQuery.php
+END

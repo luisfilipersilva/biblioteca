@@ -1,0 +1,197 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Flexigrid</title>
+<link rel="stylesheet" href="style.css" />
+<link rel="stylesheet" type="text/css" href="css/flexigrid/flexigrid.css">
+<script type="text/javascript" src="lib/jquery/jquery.js"></script>
+<script type="text/javascript" src="flexigrid.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+
+
+			$('.flexme1').flexigrid();
+			$('.flexme2').flexigrid({height:'auto',striped:false});
+
+			$("#flex1").flexigrid
+			(
+			{
+			url: 'post2.php',
+			dataType: 'json',
+			colModel : [
+				{display: 'id_ordem', name : 'id_ordem', width : 150, sortable : true, align: 'left'},
+				{display: 'ordem judicial', name : 'ordem_judicial', width : 150, sortable : true, align: 'left'},
+				{display: 'tipo', name : 'tipo', width : 150, sortable : true, align: 'left'},
+				{display: 'responsavel', name : 'responsavel', width : 150, sortable : true, align: 'left'},
+				{display: 'data_prazo', name : 'data_prazo', width : 150, sortable : true, align: 'left'},
+				{display: 'data_entrada', name : 'data_entrada', width : 150, sortable : true, align: 'left'},
+				{display: 'priorizar', name : 'priorizar', width : 150, sortable : true, align: 'left'}
+				],
+			buttons : [
+				{name: 'Add', bclass: 'add', onpress : test},
+				{name: 'Delete', bclass: 'delete', onpress : test},
+				{separator: true}
+				],
+			searchitems : [
+				{display: 'Ordem Judicial', name : 'ordem_judicial'},
+				{display: 'Tipo', name : 'tipo'},
+				{display: 'Responsavel', name : 'responsavel', isdefault: true}
+				],
+			sortname: "id_ordem",
+			sortorder: "asc",
+			usepager: true,
+			title: 'Ordem Judicial',
+			useRp: true,
+			rp: 25,
+			showTableToggleBtn: true,
+			width: 1024,
+			height: 400
+			}
+			);
+			
+			function test(com,grid)
+			{
+				if (com=='Delete')
+					{
+						confirm('Delete ' + $('.trSelected',grid).length + ' items?')
+					}
+				else if (com=='Add')
+					{
+						alert('Add New Item');
+					}			
+			}
+			
+			
+			$("#flex2").flexigrid
+			(
+			{
+			url: 'post.php',
+			dataType: 'json',
+			colModel : [
+				{display: 'id_ordem', name : 'id_ordem', width : 150, sortable : true, align: 'left'},
+				{display: 'ordem judicial', name : 'ordem_judicial', width : 150, sortable : true, align: 'left'},
+				{display: 'tipo', name : 'tipo', width : 150, sortable : true, align: 'left'},
+				{display: 'responsavel', name : 'responsavel', width : 150, sortable : true, align: 'left'},
+				{display: 'data_prazo', name : 'data_prazo', width : 150, sortable : true, align: 'left'},
+				{display: 'data_entrada', name : 'data_entrada', width : 150, sortable : true, align: 'left'},
+				{display: 'priorizar', name : 'priorizar', width : 150, sortable : true, align: 'left'}
+				],
+			buttons : [
+				{name: 'Add', bclass: 'add', onpress : test},
+				{name: 'Delete', bclass: 'delete', onpress : test},
+				{separator: true}
+				],
+			searchitems : [
+				{display: 'Ordem Judicial', name : 'ordem_judicial'},
+				{display: 'Tipo', name : 'tipo'},
+				{display: 'Responsavel', name : 'responsavel', isdefault: true}
+				],
+			sortname: "id_ordem",
+			sortorder: "asc",
+			usepager: true,
+			title: 'Ordem Judicial',
+			useRp: true,
+			rp: 25,
+			showTableToggleBtn: true,
+			width: 1024,
+			height: 400
+			}
+			);
+			
+			function test(com,grid)
+			{
+				if (com=='Delete')
+					{
+						confirm('Delete ' + $('.trSelected',grid).length + ' items?')
+					}
+				else if (com=='Add')
+					{
+						alert('Add New Item');
+					}			
+			}
+	})
+</script>
+
+</head>
+
+<body>
+
+<b>Example 3</b>
+<p>
+Flexigrid with a dynamic data, paging, search, toolbar, and connected to an JSON file.
+(<a href="#" onclick="$(this).parent().next().toggle(); return false;">Show sample code</a>)
+</p>
+<div class="code">
+
+	<style>
+        
+        .flexigrid div.fbutton .add
+            {
+                background: url(css/images/add.png) no-repeat center left;
+            }	
+    
+        .flexigrid div.fbutton .delete
+            {
+                background: url(css/images/close.png) no-repeat center left;
+            }	
+    
+    </style>
+
+
+	<pre>
+			$("#flex1").flexigrid
+			(
+			{
+			url: 'post2.php',
+			dataType: 'json',
+			colModel : [
+				{display: 'ISO', name : 'iso', width : 40, sortable : true, align: 'center'},
+				{display: 'Name', name : 'name', width : 180, sortable : true, align: 'left'},
+				{display: 'Printable Name', name : 'printable_name', width : 120, sortable : true, align: 'left'},
+				{display: 'ISO3', name : 'iso3', width : 130, sortable : true, align: 'left', hide: true},
+				{display: 'Number Code', name : 'numcode', width : 80, sortable : true, align: 'right'}
+				],
+			buttons : [
+				{name: 'Add', bclass: 'add', onpress : test},
+				{name: 'Delete', bclass: 'delete', onpress : test},
+				{separator: true}
+				],
+			searchitems : [
+				{display: 'ISO', name : 'iso'},
+				{display: 'Name', name : 'name', isdefault: true}
+				],
+			sortname: "iso",
+			sortorder: "asc",
+			usepager: true,
+			title: 'Countries',
+			useRp: true,
+			rp: 15,
+			showTableToggleBtn: true,
+			width: 700,
+			height: 200
+			}
+			);   
+	</pre>
+</div>
+
+<style>
+	
+	.flexigrid div.fbutton .add
+		{
+			background: url(css/images/add.png) no-repeat center left;
+		}	
+
+	.flexigrid div.fbutton .delete
+		{
+			background: url(css/images/close.png) no-repeat center left;
+		}	
+
+</style>
+
+
+<table id="flex1" style="display:none"></table>
+
+</body>
+</html>

@@ -1,0 +1,63 @@
+10
+
+dir
+0
+http://10.121.240.97/svn/biblioteca/trunk/javascript/jquery/ui
+http://10.121.240.97/svn/biblioteca
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5a1895d3-7f1b-412e-afb6-040cbed671bd
+
+jquery.ui.datepicker-pt-BR.js
+file
+
+
+
+add
+
+jquery-ui-1.8.16.custom.css
+file
+
+
+
+add
+
+images
+dir
+
+
+
+add
+
+jquery-ui-1.8.16.custom.min.js.old
+file
+
+
+
+add
+
+jquery-ui-1.8.16.custom.js
+file
+
+
+
+add
+

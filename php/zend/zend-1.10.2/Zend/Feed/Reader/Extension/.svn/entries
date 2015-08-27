@@ -1,0 +1,123 @@
+10
+
+dir
+10
+http://10.121.240.97/svn/biblioteca/branches/inicio/php/zend/zend-1.10.2/Zend/Feed/Reader/Extension
+http://10.121.240.97/svn/biblioteca
+
+
+
+2010-05-07T22:14:19.001565Z
+4
+guilherme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5a1895d3-7f1b-412e-afb6-040cbed671bd
+
+Atom
+dir
+
+Syndication
+dir
+
+DublinCore
+dir
+
+Thread
+dir
+
+Content
+dir
+
+Slash
+dir
+
+EntryAbstract.php
+file
+
+
+
+
+2010-08-16T20:18:54.019968Z
+9a3bc156c5655b4459989101203a4e5b
+2010-05-07T22:14:19.001565Z
+4
+guilherme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4624
+
+Podcast
+dir
+
+FeedAbstract.php
+file
+
+
+
+
+2010-08-16T20:18:54.051216Z
+18471a5963ae43b67f83999773750996
+2010-05-07T22:14:19.001565Z
+4
+guilherme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4034
+
+CreativeCommons
+dir
+
+WellFormedWeb
+dir
+
